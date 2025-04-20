@@ -26,7 +26,8 @@ Please use the following credentials to log in:
 
 ## 🔗 Live Demo
 
-👉 [Click here to view the deployed app on Vercel]([https://your-vercel-link.vercel.app](https://shopping-website-delta-peach.vercel.app/))  
+👉 [View Deployed App on Vercel](https://your-vercel-link.vercel.app)  
+
 
 
 ---
@@ -42,8 +43,8 @@ Please use the following credentials to log in:
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React.js / JavaScript
-- **UI Styling**: Tailwind CSS / Custom CSS *(based on your implementation)*
+- **Frontend**: Vite.js / TypeScript
+- **UI Styling**: Tailwind CSS / Custom CSS
 - **API**: [Fake Store API](https://fakestoreapi.com/) for product data
 
 ---
