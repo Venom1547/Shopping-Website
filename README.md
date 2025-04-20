@@ -26,8 +26,8 @@ Please use the following credentials to log in:
 
 ## 🔗 Live Demo
 
-👉 [Click here to view the deployed app on Vercel](https://your-vercel-link.vercel.app)  
-*(Replace the above link with your actual Vercel deployment)*
+👉 [Click here to view the deployed app on Vercel]([https://your-vercel-link.vercel.app](https://shopping-website-delta-peach.vercel.app/))  
+
 
 ---
 
